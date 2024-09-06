@@ -32,16 +32,4 @@ Gosta de programar e quer ajudar a melhorar este projeto? Sinta-se à vontade pa
 
 **Vamos juntos construir a melhor rota da cerveja de Belo Horizonte!** 
 
-**Observações:**
-* **Adapte o README:** Substitua "https://github.com/samuelsavioo/Rota-da-Cerveja-descubra-os-melhores-pubs-de-BH.git" pelo link real do seu repositório no GitHub.
-* **Adicione mais detalhes:** Você pode adicionar mais informações sobre o projeto, como as suas inspirações, desafios enfrentados e aprendizados.
-* **Utilize imagens:** Imagens ajudam a tornar o README mais visualmente atraente.
-* **Seja criativo:** Use a sua personalidade para criar um README que reflita a sua paixão por programação e por bares!
 
-**Com este README, você estará pronto para compartilhar seu projeto com a comunidade e receber feedbacks valiosos.**
-
-**Lembre-se:** Um README bem escrito é o cartão de visitas do seu projeto, então capriche!
-
-**Que tal adicionar algumas hashtags relacionadas ao projeto?** Por exemplo: #desenvolvimentoweb #javascript #html #css #bares #bh #cerveja #buteco
-
-**Gostou deste modelo? Posso te ajudar a personalizar ainda mais o seu README!**
