@@ -1,4 +1,4 @@
-## **## README.md: Desvendando os Segredos dos Butecos de BH**
+## ** Desvendando os Segredos dos Butecos de BH**
 
 ###  **O que é esse projeto?**
 
